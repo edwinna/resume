@@ -20,7 +20,6 @@
  - Github: http://github.com/edwinna
 
  - 期望职位：HTML5前端开发工程师
- - 期望薪资：月薪18k-20k
  - 期望城市：上海
 
 ##  个人简介
