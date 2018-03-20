@@ -80,7 +80,6 @@ o2o移动互联网  移动UED前端开发组 前端开发
 开发技术：html5+css3+jquery
 
 项目描述：展示项目，首页入口，引入rem单位，完全替代px，页面实现了自适应布局，我负责静态页面的开发，包括交互js和前后端联调。
-项目地址: http://m.suning.com/mExclusive/phoneIndx_P900_0.html
 
 ### 移动O2O活动管理项目
 开发技术：html5+css3+requireJs+jquery
@@ -92,13 +91,10 @@ o2o移动互联网  移动UED前端开发组 前端开发
 
 项目描述：使用artTemplate前端模板引擎，html5和css3开发，展示楼层可配置，页面展示逻辑js完全由我一个人完成，包括所有的页面交互和展示逻辑，后台只提供相应的数据，两种提供方式，前端发送ajax请求，另一种就是后台直接写在dom里，通过data-res传递给前端，前端再通过模板引擎artTemplate渲染页面。
 
-项目地址：http://c.m.suning.com/channel/wapmeizhuang00001.html
-
 ### 移动wap2.0大聚会项目
 开发技术：html5+css3+artTemplate+jquery
 
 项目描述：首个独立完成的项目，首个引入前后端动静分离思想的项目，使用artTemplate前端模板引擎，把页面渲染的工作完全交给前端，该项目包括今日特惠，品牌惠和开售预告三个模块。手机兼容问题比较多，其次就是页面渲染的性能问题。
-项目地址：http://ju.m.suning.com/wap/windex_0.htm
 
 ### 移动wap2.0闪拍项目
 开发技术：html5+css3+jquery
